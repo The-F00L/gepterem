@@ -1,0 +1,10 @@
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\obj\Debug\GepteremProjekt.csprojAssemblyReference.cache
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\obj\Debug\GepteremProjekt.Form1.resources
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\obj\Debug\GepteremProjekt.Properties.Resources.resources
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\obj\Debug\GepteremProjekt.csproj.GenerateResource.cache
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\obj\Debug\GepteremProjekt.csproj.CoreCompileInputs.cache
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\bin\Debug\GepteremProjekt.exe.config
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\bin\Debug\GepteremProjekt.exe
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\bin\Debug\GepteremProjekt.pdb
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\obj\Debug\GepteremProjekt.exe
+C:\Users\anone\source\repos\GepteremProjekt\GepteremProjekt\obj\Debug\GepteremProjekt.pdb
